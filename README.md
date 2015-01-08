@@ -1,2 +1,2 @@
 # datasciencecoursera
-Part of coursework Data Scientist's toolbox o Coursera.
+Part of coursework Data Scientist's toolbox on Coursera.
